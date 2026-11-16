@@ -1,0 +1,10 @@
+# OS / Python clutter
+.DS_Store
+__pycache__/
+*.pyc
+
+# Raw pilot data
+eeg_pilot/*SpringCouplingLog.csv
+
+# Third-party paper (copyrighted)
+Liu2025_*.pdf

@@ -1,0 +1,18 @@
+Dataset eeg_pilot  (/Users/anqizhu/Desktop/UW/year3/URA/Pilot_Nov11_2026/eeg_pilot)
+Clock sync: offset 5.6380 s, 295/295 trial starts matched to 295 log windows, spread 0.0021 s
+Successful main trials: 261, segmented: 261 (dropped 0 with log coverage < 80%)
+Coverage median 1.000, min 0.997; max log gap 0.094 s
+Partner height, Primary 'OtherPosY' vs Secondary 'MyPosY': RMS diff median 0.060 mm;  partner X: 0.266 mm
+Segmentation [vert]: {"method": "hmm", "converged": true, "means": [-0.05477732655848122, -3.2881581529077916e-05, 0.0470746961749006], "sds": [0.04365934542578551, 0.009705666426282325, 0.030427228704211884], "stationary_mean_ok": true}
+Segmentation [beam]: {"method": "hmm", "converged": true, "means": [-8.054212203279329, 0.006813450120726073, 6.163593879008694], "sds": [5.085199467150149, 1.5752143664974212, 3.290105150280479], "stationary_mean_ok": true}
+Segmentation [reach]: {"method": "hmm", "converged": true, "means": [-0.12900487614490788, 0.027762789672572494, 0.21834595616951655], "sds": [0.08337759727055646, 0.038074299812658766, 0.11762233332494182], "stationary_mean_ok": true}
+Trials with onset >= offset: 0;  onset after 1.5 s: P1 0, P2 0
+
+Failure rate per block:
+       n_total  n_success  failure_rate
+block                                  
+B1          65         57      0.123077
+C1a         65         61      0.061538
+C1b         65         63      0.030769
+B2          65         61      0.061538
+C2          20         19      0.050000
